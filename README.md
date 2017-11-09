@@ -1,4 +1,11 @@
 # Investigate Titanic Dataset
 
-1. Find out what you are interested to investigate and propose questions accordingly
-2. Use NumPy and Pandas to perform data analysis based on the proposed questions
+### Description
+This project aims to use NumPy and Pandas for investigating the Titanic dataset. First, discover your interests and propose questions accordingly. Then explore and analyze the dataset based on the proposed questions. Finally, draw some conclusions on the findings. 
+
+### Prerequisites
+* Python
+* Numpy
+* Pandas
+
+*© Arianna E. 2017*  
