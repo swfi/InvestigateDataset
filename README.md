@@ -8,4 +8,4 @@ This project aims to use NumPy and Pandas for investigating the Titanic dataset.
 * Numpy
 * Pandas
 
-*© Arianna E. 2017*  
+*©2017 Arianna E.*   
